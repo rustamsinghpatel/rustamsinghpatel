@@ -1,3 +1,4 @@
+![logo](https://github.com/rustamsinghpatel/rustamsinghpatel/blob/main/gitbanner.png)
 <h1 align="center">Hi 👋, I'm Rustam Patel</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -9,9 +10,9 @@
 
 - 💬 Ask me about **react ,node**
 
-- 📫 How to reach me **7509383274**
+- 📫 How to reach me **singhpatel.rs@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: " 7509383274 "</h3>
 <p align="left">
 </p>
 
