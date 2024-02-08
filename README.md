@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **singhpatel.rs@gmail.com**
 
-<h3 align="left">Connect with me: " 7509383274 "</h3>
+<h3 align="left">Connect with me: - " 7509383274 "</h3>
 <p align="left">
 </p>
 
